@@ -1,2 +1,19 @@
-# EEG-Biometrics-Neural-Identity
-Decoding Neural Identity: Multi-Scale Time-Frequency Analysis and Wavelet Feature Extraction for SSVEP-Based Biometrics
+# COGS 189 Final Project: EEG Biometrics Data Pipeline
+
+**Team:** Overthinking  
+**Members:** Dennis Sun, Evelyn Zhang, Qirui Zheng, Yixuan Xin  
+
+## Project Overview
+This repository contains the data engineering and preprocessing pipeline for our COGS 189 final project. The overarching goal of the project is to extract "Neural Fingerprints" from Steady-State Visual Evoked Potentials (SSVEP, 稳态视觉诱发电位) for biometric identification. 
+
+This specific pipeline focuses on the data ingestion phase. It processes raw Electroencephalography (EEG, 脑电图) data collected under a Rapid Serial Visual Presentation (RSVP, 快速序列视觉呈现) paradigm, filters it, and converts it into standardized 3D tensors (`.npz` format). These cleaned tensors provide the foundation for downstream Machine Learning (ML, 机器学习) tasks.
+
+## Environment Setup
+To run this pipeline, you need Python 3.x installed along with specific scientific computing libraries. 
+
+1. Clone this repository to your local machine.
+2. Install the required dependencies using the provided `requirements.txt`:
+
+```bash
+pip install -r requirements.txt
+
