@@ -208,3 +208,4 @@ __marimo__/
 data/
 my_preprocessed_data/
 wavelet_outputs/
+temp/
