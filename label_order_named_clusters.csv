@@ -1,0 +1,1655 @@
+orig_idx,label,cluster_id,cluster_name,cluster_size,within_cluster_rank
+1563,vegetable,13,candy / cream,203,0
+262,cereal,13,candy / cream,203,1
+287,chili,13,candy / cream,203,2
+1002,peanut butter,13,candy / cream,203,3
+297,chocolate,13,candy / cream,203,4
+1055,pizza,13,candy / cream,203,5
+1194,salad,13,candy / cream,203,6
+565,fruitcake,13,candy / cream,203,7
+200,butter,13,candy / cream,203,8
+1307,snack,13,candy / cream,203,9
+1089,potato,13,candy / cream,203,10
+449,dough,13,candy / cream,203,11
+1489,tomato,13,candy / cream,203,12
+361,corn,13,candy / cream,203,13
+174,breakfast,13,candy / cream,203,14
+993,pasta,13,candy / cream,203,15
+887,milk,13,candy / cream,203,16
+1201,sandwich,13,candy / cream,203,17
+105,bell pepper,13,candy / cream,203,18
+1419,sweet potato,13,candy / cream,203,19
+1103,pudding,13,candy / cream,203,20
+276,cheesecake,13,candy / cream,203,21
+12,almond,13,candy / cream,203,22
+225,candy,13,candy / cream,203,23
+1306,smoothie,13,candy / cream,203,24
+1019,pepper2,13,candy / cream,203,25
+1109,pumpkin,13,candy / cream,203,26
+1020,peppermint,13,candy / cream,203,27
+1330,soup,13,candy / cream,203,28
+976,pancake,13,candy / cream,203,29
+1159,rice,13,candy / cream,203,30
+875,meat,13,candy / cream,203,31
+1021,pepperoni,13,candy / cream,203,32
+1648,yogurt,13,candy / cream,203,33
+1613,whipped cream,13,candy / cream,203,34
+247,carrot,13,candy / cream,203,35
+1598,watermelon,13,candy / cream,203,36
+615,grapefruit,13,candy / cream,203,37
+1001,peanut,13,candy / cream,203,38
+994,pastry,13,candy / cream,203,39
+250,casserole,13,candy / cream,203,40
+614,grape,13,candy / cream,203,41
+362,cornbread,13,candy / cream,203,42
+204,cabbage,13,candy / cream,203,43
+384,cream cheese,13,candy / cream,203,44
+1334,spaghetti,13,candy / cream,203,45
+1206,sauce,13,candy / cream,203,46
+383,cream,13,candy / cream,203,47
+240,caramel,13,candy / cream,203,48
+1408,sunflower,13,candy / cream,203,49
+623,green beans,13,candy / cream,203,50
+178,broccoli,13,candy / cream,203,51
+542,flour,13,candy / cream,203,52
+209,cake,13,candy / cream,203,53
+93,beanie,13,candy / cream,203,54
+999,peach,13,candy / cream,203,55
+705,hot chocolate,13,candy / cream,203,56
+1057,plant,13,candy / cream,203,57
+1653,zucchini,13,candy / cream,203,58
+59,banana peel,13,candy / cream,203,59
+397,cucumber,13,candy / cream,203,60
+924,mustard,13,candy / cream,203,61
+498,fast food,13,candy / cream,203,62
+765,ketchup,13,candy / cream,203,63
+479,eggplant,13,candy / cream,203,64
+254,cauliflower,13,candy / cream,203,65
+624,grill,13,candy / cream,203,66
+975,pan,13,candy / cream,203,67
+855,mango,13,candy / cream,203,68
+173,breadstick,13,candy / cream,203,69
+27,appetizer,13,candy / cream,203,70
+625,grille,13,candy / cream,203,71
+753,juice,13,candy / cream,203,72
+543,flower,13,candy / cream,203,73
+377,cranberry,13,candy / cream,203,74
+227,candy cane,13,candy / cream,203,75
+917,muffin,13,candy / cream,203,76
+306,cinnamon,13,candy / cream,203,77
+867,mashed potato,13,candy / cream,203,78
+1298,slime,13,candy / cream,203,79
+1369,star fruit,13,candy / cream,203,80
+1429,syrup,13,candy / cream,203,81
+610,grain,13,candy / cream,203,82
+108,berry,13,candy / cream,203,83
+1355,squash,13,candy / cream,203,84
+953,olive,13,candy / cream,203,85
+133,blueberry,13,candy / cream,203,86
+613,granola,13,candy / cream,203,87
+807,lemonade,13,candy / cream,203,88
+982,papaya,13,candy / cream,203,89
+591,ginger,13,candy / cream,203,90
+1133,raisin,13,candy / cream,203,91
+277,cherry,13,candy / cream,203,92
+1483,toaster,13,candy / cream,203,93
+1577,waffle,13,candy / cream,203,94
+1331,soy sauce,13,candy / cream,203,95
+1018,pepper mill,13,candy / cream,203,96
+798,leaf,13,candy / cream,203,97
+888,milkshake,13,candy / cream,203,98
+1051,pistachio,13,candy / cream,203,99
+275,cheeseburger,13,candy / cream,203,100
+1372,steak,13,candy / cream,203,101
+881,melon,13,candy / cream,203,102
+181,brownie,13,candy / cream,203,103
+562,french fries,13,candy / cream,203,104
+865,marshmallow,13,candy / cream,203,105
+1650,yolk,13,candy / cream,203,106
+820,lime,13,candy / cream,203,107
+91,bean,13,candy / cream,203,108
+806,lemon,13,candy / cream,203,109
+118,biscuit,13,candy / cream,203,110
+919,mulberry,13,candy / cream,203,111
+794,latte,13,candy / cream,203,112
+1578,waffle iron,13,candy / cream,203,113
+179,brooch,13,candy / cream,203,114
+592,gingerbread man,13,candy / cream,203,115
+566,fudge,13,candy / cream,203,116
+370,cotton candy,13,candy / cream,203,117
+1226,scrambled egg,13,candy / cream,203,118
+321,clove,13,candy / cream,203,119
+478,eggnog,13,candy / cream,203,120
+210,cake mix,13,candy / cream,203,121
+441,donut,13,candy / cream,203,122
+951,oil,13,candy / cream,203,123
+1353,sprouts,13,candy / cream,203,124
+1207,saucer,13,candy / cream,203,125
+840,lunchbox,13,candy / cream,203,126
+709,hotdog,13,candy / cream,203,127
+226,candy bar,13,candy / cream,203,128
+1066,plum,13,candy / cream,203,129
+1404,sugar cube,13,candy / cream,203,130
+256,celery,13,candy / cream,203,131
+1037,pill,13,candy / cream,203,132
+763,kebab,13,candy / cream,203,133
+741,jar,13,candy / cream,203,134
+1482,toast,13,candy / cream,203,135
+835,lollipop,13,candy / cream,203,136
+37,artichoke,13,candy / cream,203,137
+1144,ready meal,13,candy / cream,203,138
+305,cilantro,13,candy / cream,203,139
+1540,tupperware,13,candy / cream,203,140
+945,nut,13,candy / cream,203,141
+364,cornmeal,13,candy / cream,203,142
+60,banana split,13,candy / cream,203,143
+1300,slipper,13,candy / cream,203,144
+480,eggshell,13,candy / cream,203,145
+1105,puffin,13,candy / cream,203,146
+962,oven,13,candy / cream,203,147
+337,coleslaw,13,candy / cream,203,148
+668,hay,13,candy / cream,203,149
+1612,whip,13,candy / cream,203,150
+1266,shortbread,13,candy / cream,203,151
+474,easter egg,13,candy / cream,203,152
+322,clover,13,candy / cream,203,153
+952,oilcan,13,candy / cream,203,154
+58,bamboo,13,candy / cream,203,155
+784,lamb chop,13,candy / cream,203,156
+627,grits,13,candy / cream,203,157
+1538,tumbleweed,13,candy / cream,203,158
+188,buffet,13,candy / cream,203,159
+363,cornhusk,13,candy / cream,203,160
+140,bologna,13,candy / cream,203,161
+351,cookie cutter,13,candy / cream,203,162
+1399,string cheese,13,candy / cream,203,163
+913,mousse,13,candy / cream,203,164
+550,food processor,13,candy / cream,203,165
+813,licorice,13,candy / cream,203,166
+616,grapevine,13,candy / cream,203,167
+992,parsley,13,candy / cream,203,168
+954,orange rind,13,candy / cream,203,169
+506,fig,13,candy / cream,203,170
+507,figurine,13,candy / cream,203,171
+864,marmalade,13,candy / cream,203,172
+1038,pillbox,13,candy / cream,203,173
+539,flipper,13,candy / cream,203,174
+889,mint,13,candy / cream,203,175
+392,crutch,13,candy / cream,203,176
+755,juicer2,13,candy / cream,203,177
+1084,poppy,13,candy / cream,203,178
+477,eggbeater,13,candy / cream,203,179
+860,maple syrup,13,candy / cream,203,180
+1384,stir fry,13,candy / cream,203,181
+764,keg,13,candy / cream,203,182
+905,moss,13,candy / cream,203,183
+886,microwave,13,candy / cream,203,184
+740,jam,13,candy / cream,203,185
+538,flip flop,13,candy / cream,203,186
+120,blackberry,13,candy / cream,203,187
+503,fern,13,candy / cream,203,188
+1566,vending machine,13,candy / cream,203,189
+307,clam,13,candy / cream,203,190
+895,moccasin,13,candy / cream,203,191
+920,mulch,13,candy / cream,203,192
+183,brussels sprouts,13,candy / cream,203,193
+903,mop,13,candy / cream,203,194
+1247,shaving cream,13,candy / cream,203,195
+1605,wedding cake,13,candy / cream,203,196
+977,panda,13,candy / cream,203,197
+754,juicer1,13,candy / cream,203,198
+1576,wafer,13,candy / cream,203,199
+365,cornucopia,13,candy / cream,203,200
+352,cookie sheet,13,candy / cream,203,201
+1484,toaster oven,13,candy / cream,203,202
+114,bird,10,bear / pig,193,0
+1119,rabbit,10,bear / pig,193,1
+564,frog,10,bear / pig,193,2
+1309,snake,10,bear / pig,193,3
+525,fish,10,bear / pig,193,4
+1546,turtle,10,bear / pig,193,5
+440,donkey,10,bear / pig,193,6
+827,lizard,10,bear / pig,193,7
+458,duck,10,bear / pig,193,8
+1113,puppy,10,bear / pig,193,9
+431,dog,10,bear / pig,193,10
+1358,squirrel,10,bear / pig,193,11
+1370,starfish,10,bear / pig,193,12
+438,dolphin,10,bear / pig,193,13
+1137,rat,10,bear / pig,193,14
+253,catfish,10,bear / pig,193,15
+1602,weasel,10,bear / pig,193,16
+1343,spider,10,bear / pig,193,17
+1308,snail,10,bear / pig,193,18
+208,cage,10,bear / pig,193,19
+601,goat,10,bear / pig,193,20
+375,coyote,10,bear / pig,193,21
+1035,pig,10,bear / pig,193,22
+702,horse,10,bear / pig,193,23
+1481,toad,10,bear / pig,193,24
+991,parrot,10,bear / pig,193,25
+651,hamster,10,bear / pig,193,26
+744,jellyfish,10,bear / pig,193,27
+829,lobster,10,bear / pig,193,28
+772,kitten,10,bear / pig,193,29
+1609,whale,10,bear / pig,193,30
+201,butterfly,10,bear / pig,193,31
+50,badger,10,bear / pig,193,32
+1014,penguin,10,bear / pig,193,33
+605,goldfish,10,bear / pig,193,34
+1246,shark,10,bear / pig,193,35
+70,barnacle,10,bear / pig,193,36
+760,kangaroo,10,bear / pig,193,37
+1235,seahorse,10,bear / pig,193,38
+632,guinea pig,10,bear / pig,193,39
+1651,zebra,10,bear / pig,193,40
+922,mushroom,10,bear / pig,193,41
+1000,peacock,10,bear / pig,193,42
+327,cockroach,10,bear / pig,193,43
+94,bear,10,bear / pig,193,44
+374,cow,10,bear / pig,193,45
+1476,tiger,10,bear / pig,193,46
+949,octopus,10,bear / pig,193,47
+1357,squid,10,bear / pig,193,48
+823,lion,10,bear / pig,193,49
+1304,slug,10,bear / pig,193,50
+1275,shrimp,10,bear / pig,193,51
+1082,poodle,10,bear / pig,193,52
+281,chick,10,bear / pig,193,53
+560,fox,10,bear / pig,193,54
+103,beetle,10,bear / pig,193,55
+1436,tadpole,10,bear / pig,193,56
+99,bee,10,bear / pig,193,57
+500,feather,10,bear / pig,193,58
+504,ferret,10,bear / pig,193,59
+593,giraffe,10,bear / pig,193,60
+1081,pony,10,bear / pig,193,61
+189,bull,10,bear / pig,193,62
+131,blowfish,10,bear / pig,193,63
+617,grass,10,bear / pig,193,64
+921,mullet,10,bear / pig,193,65
+1575,vulture,10,bear / pig,193,66
+413,deer,10,bear / pig,193,67
+1140,rattlesnake,10,bear / pig,193,68
+964,owl,10,bear / pig,193,69
+115,birdbath,10,bear / pig,193,70
+1224,scorpion,10,bear / pig,193,71
+284,chicken2,10,bear / pig,193,72
+135,boar,10,bear / pig,193,73
+285,chickpea,10,bear / pig,193,74
+338,collar,10,bear / pig,193,75
+1295,skunk,10,bear / pig,193,76
+1437,taffy,10,bear / pig,193,77
+901,monkey,10,bear / pig,193,78
+11,alligator,10,bear / pig,193,79
+143,bone,10,bear / pig,193,80
+408,daisy,10,bear / pig,193,81
+326,cockatoo,10,bear / pig,193,82
+902,moose,10,bear / pig,193,83
+116,birdcage,10,bear / pig,193,84
+459,duckling,10,bear / pig,193,85
+1631,wolf,10,bear / pig,193,86
+207,cactus,10,bear / pig,193,87
+1234,seafood,10,bear / pig,193,88
+87,bazooka,10,bear / pig,193,89
+1547,turtleneck,10,bear / pig,193,90
+381,crayfish,10,bear / pig,193,91
+1455,teddy bear,10,bear / pig,193,92
+680,hedgehog,10,bear / pig,193,93
+23,ant,10,bear / pig,193,94
+527,fishhook,10,bear / pig,193,95
+1120,raccoon,10,bear / pig,193,96
+1139,rattle,10,bear / pig,193,97
+1286,skeleton,10,bear / pig,193,98
+998,pea,10,bear / pig,193,99
+1251,sheep,10,bear / pig,193,100
+1210,sawhorse,10,bear / pig,193,101
+906,moth,10,bear / pig,193,102
+283,chicken1,10,bear / pig,193,103
+718,hyena,10,bear / pig,193,104
+1072,polar bear,10,bear / pig,193,105
+1112,puppet,10,bear / pig,193,106
+356,coral,10,bear / pig,193,107
+558,fossil,10,bear / pig,193,108
+32,aquarium,10,bear / pig,193,109
+216,camel,10,bear / pig,193,110
+1415,swan,10,bear / pig,193,111
+687,hobbyhorse,10,bear / pig,193,112
+628,groundhog,10,bear / pig,193,113
+576,gargoyle,10,bear / pig,193,114
+667,hawk,10,bear / pig,193,115
+1347,sponge,10,bear / pig,193,116
+965,oyster,10,bear / pig,193,117
+24,anteater,10,bear / pig,193,118
+435,doll,10,bear / pig,193,119
+809,leopard,10,bear / pig,193,120
+1378,stew,10,bear / pig,193,121
+526,fishbowl,10,bear / pig,193,122
+1152,reindeer,10,bear / pig,193,123
+1590,wasp,10,bear / pig,193,124
+117,birdhouse,10,bear / pig,193,125
+1543,turf,10,bear / pig,193,126
+472,earwig,10,bear / pig,193,127
+1217,scarecrow,10,bear / pig,193,128
+119,bison,10,bear / pig,193,129
+334,coffin,10,bear / pig,193,130
+286,chihuahua,10,bear / pig,193,131
+1008,peg,10,bear / pig,193,132
+783,ladybug,10,bear / pig,193,133
+293,chipmunk,10,bear / pig,193,134
+100,beehive,10,bear / pig,193,135
+1584,walrus,10,bear / pig,193,136
+1026,petal,10,bear / pig,193,137
+762,kazoo,10,bear / pig,193,138
+102,beet,10,bear / pig,193,139
+190,bulldozer,10,bear / pig,193,140
+845,maggot,10,bear / pig,193,141
+1171,rocking horse,10,bear / pig,193,142
+1446,tarantula,10,bear / pig,193,143
+48,bacon,10,bear / pig,193,144
+1233,sea urchin,10,bear / pig,193,145
+996,patty,10,bear / pig,193,146
+1121,racehorse,10,bear / pig,193,147
+649,ham,10,bear / pig,193,148
+1550,twig,10,bear / pig,193,149
+1383,stingray,10,bear / pig,193,150
+1474,ticktacktoe,10,bear / pig,193,151
+567,fungus,10,bear / pig,193,152
+69,bark,10,bear / pig,193,153
+1024,pesto,10,bear / pig,193,154
+695,honeypot,10,bear / pig,193,155
+650,hammock,10,bear / pig,193,156
+433,doghouse,10,bear / pig,193,157
+3,acorn,10,bear / pig,193,158
+1025,pet food,10,bear / pig,193,159
+572,gallows,10,bear / pig,193,160
+292,chip,10,bear / pig,193,161
+1463,terrarium,10,bear / pig,193,162
+1344,spider web,10,bear / pig,193,163
+432,dogfood,10,bear / pig,193,164
+1471,throne,10,bear / pig,193,165
+956,organ,10,bear / pig,193,166
+1508,tractor,10,bear / pig,193,167
+726,iguana,10,bear / pig,193,168
+463,dumbwaiter,10,bear / pig,193,169
+940,noodle,10,bear / pig,193,170
+694,honeycomb,10,bear / pig,193,171
+244,cardinal,10,bear / pig,193,172
+437,dolly,10,bear / pig,193,173
+436,dollhouse,10,bear / pig,193,174
+797,lawnmower,10,bear / pig,193,175
+294,chips,10,bear / pig,193,176
+1241,sequin,10,bear / pig,193,177
+1345,spinach,10,bear / pig,193,178
+679,hedge,10,bear / pig,193,179
+1499,tortellini,10,bear / pig,193,180
+1632,woman,10,bear / pig,193,181
+1287,skewer,10,bear / pig,193,182
+621,gravestone,10,bear / pig,193,183
+693,honey,10,bear / pig,193,184
+847,magnifier,10,bear / pig,193,185
+1073,polaroid,10,bear / pig,193,186
+896,mold1,10,bear / pig,193,187
+1237,seaplane,10,bear / pig,193,188
+883,metronome,10,bear / pig,193,189
+897,mold2,10,bear / pig,193,190
+403,curry,10,bear / pig,193,191
+272,chariot,10,bear / pig,193,192
+960,outfit,23,stick / towel,180,0
+643,hair,23,stick / towel,180,1
+1259,shirt,23,stick / towel,180,2
+317,clothes,23,stick / towel,180,3
+979,pants,23,stick / towel,180,4
+368,costume,23,stick / towel,180,5
+1218,scarf,23,stick / towel,180,6
+106,belt,23,stick / towel,180,7
+737,jacket,23,stick / towel,180,8
+1167,robe,23,stick / towel,180,9
+822,lingerie,23,stick / towel,180,10
+1416,sweater,23,stick / towel,180,11
+129,blouse,23,stick / towel,180,12
+1555,underwear,23,stick / towel,180,13
+804,leggings,23,stick / towel,180,14
+1394,strap,23,stick / towel,180,15
+1260,shoe,23,stick / towel,180,16
+1293,skirt,23,stick / towel,180,17
+1568,vest,23,stick / towel,180,18
+933,neck,23,stick / towel,180,19
+682,helmet,23,stick / towel,180,20
+110,bikini,23,stick / towel,180,21
+834,loincloth,23,stick / towel,180,22
+1292,skin,23,stick / towel,180,23
+1485,toe,23,stick / towel,180,24
+1505,towel,23,stick / towel,180,25
+319,clothespin,23,stick / towel,180,26
+942,nose,23,stick / towel,180,27
+779,knot,23,stick / towel,180,28
+978,panties,23,stick / towel,180,29
+1386,stockings,23,stick / towel,180,30
+513,finger,23,stick / towel,180,31
+1588,washcloth,23,stick / towel,180,32
+35,armor,23,stick / towel,180,33
+1652,zipper,23,stick / towel,180,34
+1180,rope,23,stick / towel,180,35
+743,jeans,23,stick / towel,180,36
+62,bandanna,23,stick / towel,180,37
+1320,sock,23,stick / towel,180,38
+1421,swimsuit,23,stick / towel,180,39
+1398,stretcher,23,stick / towel,180,40
+803,leg,23,stick / towel,180,41
+1263,shoelace,23,stick / towel,180,42
+1642,wrist,23,stick / towel,180,43
+980,pantsuit,23,stick / towel,180,44
+577,garter,23,stick / towel,180,45
+923,mustache,23,stick / towel,180,46
+1498,torso,23,stick / towel,180,47
+1268,shoulder,23,stick / towel,180,48
+774,knee,23,stick / towel,180,49
+21,ankle,23,stick / towel,180,50
+1417,sweatsuit,23,stick / towel,180,51
+121,blanket,23,stick / towel,180,52
+1608,wetsuit,23,stick / towel,180,53
+1619,wig,23,stick / towel,180,54
+551,foot,23,stick / towel,180,55
+1492,tooth,23,stick / towel,180,56
+182,brush,23,stick / towel,180,57
+1294,skull,23,stick / towel,180,58
+914,mouth,23,stick / towel,180,59
+587,gel,23,stick / towel,180,60
+496,face,23,stick / towel,180,61
+340,comb,23,stick / towel,180,62
+930,napkin,23,stick / towel,180,63
+652,hand,23,stick / towel,180,64
+95,beard,23,stick / towel,180,65
+169,braid,23,stick / towel,180,66
+1185,rubber band,23,stick / towel,180,67
+1565,velcro,23,stick / towel,180,68
+1472,thumb,23,stick / towel,180,69
+1475,tie,23,stick / towel,180,70
+654,handkerchief,23,stick / towel,180,71
+1267,shorts,23,stick / towel,180,72
+481,elbow,23,stick / towel,180,73
+1556,uniform,23,stick / towel,180,74
+1158,ribbon,23,stick / towel,180,75
+34,arm,23,stick / towel,180,76
+187,buckle,23,stick / towel,180,77
+22,anklet,23,stick / towel,180,78
+634,gum,23,stick / towel,180,79
+851,makeup,23,stick / towel,180,80
+309,clasp,23,stick / towel,180,81
+1077,polo shirt,23,stick / towel,180,82
+664,hat,23,stick / towel,180,83
+1022,perfume,23,stick / towel,180,84
+644,hairbrush,23,stick / towel,180,85
+1317,snowsuit,23,stick / towel,180,86
+318,clothesline,23,stick / towel,180,87
+826,lipstick,23,stick / towel,180,88
+74,baseball glove,23,stick / towel,180,89
+986,paper towel,23,stick / towel,180,90
+1493,toothbrush,23,stick / towel,180,91
+158,bowler hat,23,stick / towel,180,92
+670,headdress,23,stick / towel,180,93
+1456,tee,23,stick / towel,180,94
+1333,spacesuit,23,stick / towel,180,95
+1143,razor blade,23,stick / towel,180,96
+866,mascara,23,stick / towel,180,97
+452,dress,23,stick / towel,180,98
+1490,tongue,23,stick / towel,180,99
+20,anchor,23,stick / towel,180,100
+646,hairnet,23,stick / towel,180,101
+688,hockey stick,23,stick / towel,180,102
+799,leash,23,stick / towel,180,103
+661,harness,23,stick / towel,180,104
+647,hairpin,23,stick / towel,180,105
+289,chin,23,stick / towel,180,106
+107,belt buckle,23,stick / towel,180,107
+857,mannequin,23,stick / towel,180,108
+1433,tack,23,stick / towel,180,109
+1431,tablecloth,23,stick / towel,180,110
+494,eyeliner,23,stick / towel,180,111
+981,pantyhose,23,stick / towel,180,112
+757,jumpsuit,23,stick / towel,180,113
+1132,raincoat,23,stick / towel,180,114
+1379,stick,23,stick / towel,180,115
+235,cap,23,stick / towel,180,116
+194,bungee,23,stick / towel,180,117
+163,boxing gloves,23,stick / towel,180,118
+915,mouthpiece,23,stick / towel,180,119
+553,football helmet,23,stick / towel,180,120
+569,fur coat,23,stick / towel,180,121
+1634,wooden leg,23,stick / towel,180,122
+529,fishnet stockings,23,stick / towel,180,123
+756,jump rope,23,stick / towel,180,124
+415,denture,23,stick / towel,180,125
+172,brass knuckles,23,stick / towel,180,126
+636,gumdrop,23,stick / towel,180,127
+1142,razor,23,stick / towel,180,128
+598,glue,23,stick / towel,180,129
+931,napkin ring,23,stick / towel,180,130
+1380,sticker,23,stick / towel,180,131
+549,fondue,23,stick / towel,180,132
+825,lip gloss,23,stick / towel,180,133
+541,floss,23,stick / towel,180,134
+162,boxer shorts,23,stick / towel,180,135
+653,handcuff,23,stick / towel,180,136
+1495,toothpick,23,stick / towel,180,137
+1154,retainer,23,stick / towel,180,138
+793,latch,23,stick / towel,180,139
+1457,teepee,23,stick / towel,180,140
+815,life jacket,23,stick / towel,180,141
+1434,tackle,23,stick / towel,180,142
+789,lanyard,23,stick / towel,180,143
+796,lavender,23,stick / towel,180,144
+1102,puck,23,stick / towel,180,145
+1506,towel rack,23,stick / towel,180,146
+1574,visor,23,stick / towel,180,147
+228,cane,23,stick / towel,180,148
+139,bolo tie,23,stick / towel,180,149
+1562,vase,23,stick / towel,180,150
+1215,scalpel,23,stick / towel,180,151
+1382,stilt,23,stick / towel,180,152
+1318,soap,23,stick / towel,180,153
+192,bulletproof vest,23,stick / towel,180,154
+1017,pennant,23,stick / towel,180,155
+416,deodorant,23,stick / towel,180,156
+1381,stiletto,23,stick / towel,180,157
+648,hairspray,23,stick / towel,180,158
+246,carriage,23,stick / towel,180,159
+782,ladder,23,stick / towel,180,160
+398,cufflink,23,stick / towel,180,161
+554,footbath,23,stick / towel,180,162
+1425,swizzle stick,23,stick / towel,180,163
+988,parachute,23,stick / towel,180,164
+1494,toothpaste,23,stick / towel,180,165
+1281,silicone,23,stick / towel,180,166
+781,lab coat,23,stick / towel,180,167
+89,bead,23,stick / towel,180,168
+153,bouquet,23,stick / towel,180,169
+1549,tweezers,23,stick / towel,180,170
+1053,pitcher,23,stick / towel,180,171
+732,insole,23,stick / towel,180,172
+665,hatbox,23,stick / towel,180,173
+1473,thumbtack,23,stick / towel,180,174
+824,lip balm,23,stick / towel,180,175
+713,hubcap,23,stick / towel,180,176
+13,aloe,23,stick / towel,180,177
+150,boot,23,stick / towel,180,178
+291,chinchilla,23,stick / towel,180,179
+1633,wood,4,tree / gun,126,0
+1426,sword,4,tree / gun,126,1
+775,knife,4,tree / gun,126,2
+1520,tree,4,tree / gun,126,3
+263,chainsaw,4,tree / gun,126,4
+637,gun,4,tree / gun,126,5
+1161,rifle,4,tree / gun,126,6
+1346,splinter,4,tree / gun,126,7
+420,diamond,4,tree / gun,126,8
+1168,rock,4,tree / gun,126,9
+934,necklace,4,tree / gun,126,10
+141,bolt,4,tree / gun,126,11
+839,lumber,4,tree / gun,126,12
+1582,wall,4,tree / gun,126,13
+1519,treasure,4,tree / gun,126,14
+604,gold,4,tree / gun,126,15
+1197,sand,4,tree / gun,126,16
+861,marble,4,tree / gun,126,17
+588,gem,4,tree / gun,126,18
+176,brick,4,tree / gun,126,19
+43,axe,4,tree / gun,126,20
+36,arrow,4,tree / gun,126,21
+1209,saw,4,tree / gun,126,22
+71,barrel,4,tree / gun,126,23
+1230,screw,4,tree / gun,126,24
+1340,spear,4,tree / gun,126,25
+1003,pearl,4,tree / gun,126,26
+748,jewel,4,tree / gun,126,27
+703,horseshoe,4,tree / gun,126,28
+1186,ruby,4,tree / gun,126,29
+1044,pine tree,4,tree / gun,126,30
+843,machete,4,tree / gun,126,31
+1163,ring,4,tree / gun,126,32
+483,emerald,4,tree / gun,126,33
+832,locket,4,tree / gun,126,34
+1124,racket,4,tree / gun,126,35
+916,mud,4,tree / gun,126,36
+749,jewelry,4,tree / gun,126,37
+390,crown,4,tree / gun,126,38
+1250,sheath,4,tree / gun,126,39
+155,bow2,4,tree / gun,126,40
+1123,rack2,4,tree / gun,126,41
+1641,wrench,4,tree / gun,126,42
+156,bow3,4,tree / gun,126,43
+1529,trophy,4,tree / gun,126,44
+522,firewood,4,tree / gun,126,45
+454,drill,4,tree / gun,126,46
+393,crystal ball,4,tree / gun,126,47
+387,crossbow,4,tree / gun,126,48
+501,fence,4,tree / gun,126,49
+1449,tattoo,4,tree / gun,126,50
+1296,sledgehammer,4,tree / gun,126,51
+738,jackhammer,4,tree / gun,126,52
+1130,railing,4,tree / gun,126,53
+620,gravel,4,tree / gun,126,54
+805,lego,4,tree / gun,126,55
+1524,trident,4,tree / gun,126,56
+1134,rake,4,tree / gun,126,57
+33,arch,4,tree / gun,126,58
+1262,shoehorn,4,tree / gun,126,59
+17,amber,4,tree / gun,126,60
+1155,revolver,4,tree / gun,126,61
+395,crystal2,4,tree / gun,126,62
+49,badge,4,tree / gun,126,63
+310,clay,4,tree / gun,126,64
+852,mallet,4,tree / gun,126,65
+878,medal,4,tree / gun,126,66
+1122,rack1,4,tree / gun,126,67
+858,mantle,4,tree / gun,126,68
+1469,thorn,4,tree / gun,126,69
+167,bracelet2,4,tree / gun,126,70
+1521,tree trunk,4,tree / gun,126,71
+26,anvil,4,tree / gun,126,72
+1094,powder,4,tree / gun,126,73
+154,bow1,4,tree / gun,126,74
+1045,pineapple,4,tree / gun,126,75
+1427,swordfish,4,tree / gun,126,76
+394,crystal1,4,tree / gun,126,77
+778,knob,4,tree / gun,126,78
+1179,root,4,tree / gun,126,79
+1371,statue,4,tree / gun,126,80
+580,gate,4,tree / gun,126,81
+795,lava,4,tree / gun,126,82
+590,gift,4,tree / gun,126,83
+171,branch,4,tree / gun,126,84
+1515,trap,4,tree / gun,126,85
+270,charcoal,4,tree / gun,126,86
+1200,sandcastle,4,tree / gun,126,87
+787,landmine,4,tree / gun,126,88
+29,apple tree,4,tree / gun,126,89
+160,bowtie,4,tree / gun,126,90
+1447,target,4,tree / gun,126,91
+735,ivy,4,tree / gun,126,92
+612,granite,4,tree / gun,126,93
+1054,pitchfork,4,tree / gun,126,94
+166,bracelet1,4,tree / gun,126,95
+1239,seesaw,4,tree / gun,126,96
+691,holster,4,tree / gun,126,97
+1531,trowel,4,tree / gun,126,98
+1231,screwdriver,4,tree / gun,126,99
+899,money,4,tree / gun,126,100
+1138,ratchet,4,tree / gun,126,101
+666,hatchet,4,tree / gun,126,102
+844,machine gun,4,tree / gun,126,103
+1516,trapdoor,4,tree / gun,126,104
+1046,pinecone,4,tree / gun,126,105
+1359,squirt gun,4,tree / gun,126,106
+299,christmas tree,4,tree / gun,126,107
+958,otter,4,tree / gun,126,108
+323,coal,4,tree / gun,126,109
+609,graffiti,4,tree / gun,126,110
+1199,sandbox,4,tree / gun,126,111
+409,dandelion,4,tree / gun,126,112
+1104,puddle,4,tree / gun,126,113
+1064,pliers,4,tree / gun,126,114
+145,bonsai,4,tree / gun,126,115
+152,boulder,4,tree / gun,126,116
+502,fencepost,4,tree / gun,126,117
+974,palm tree,4,tree / gun,126,118
+630,guardrail,4,tree / gun,126,119
+269,chandelier,4,tree / gun,126,120
+325,coat rack,4,tree / gun,126,121
+833,log,4,tree / gun,126,122
+750,jigsaw puzzle,4,tree / gun,126,123
+1178,roof rack,4,tree / gun,126,124
+1525,trigger,4,tree / gun,126,125
+1610,wheel,5,ball / board,125,0
+967,paddle,5,ball / board,125,1
+136,board,5,ball / board,125,2
+1341,speedboat,5,ball / board,125,3
+8,airboat,5,ball / board,125,4
+237,car,5,ball / board,125,5
+1532,truck,5,ball / board,125,6
+908,motorcycle,5,ball / board,125,7
+1100,propeller,5,ball / board,125,8
+1187,rudder,5,ball / board,125,9
+1536,tugboat,5,ball / board,125,10
+485,engine,5,ball / board,125,11
+1507,toy,5,ball / board,125,12
+55,ball,5,ball / board,125,13
+1579,wagon,5,ball / board,125,14
+545,fly,5,ball / board,125,15
+1048,pinwheel,5,ball / board,125,16
+359,corkboard,5,ball / board,125,17
+1173,roller,5,ball / board,125,18
+1128,raft,5,ball / board,125,19
+1193,sail,5,ball / board,125,20
+1514,trampoline,5,ball / board,125,21
+761,kayak,5,ball / board,125,22
+159,bowling ball,5,ball / board,125,23
+137,board game,5,ball / board,125,24
+1169,rocket,5,ball / board,125,25
+232,canoe,5,ball / board,125,26
+681,helicopter,5,ball / board,125,27
+1176,rollerskate,5,ball / board,125,28
+1174,roller coaster,5,ball / board,125,29
+411,dartboard,5,ball / board,125,30
+573,game,5,ball / board,125,31
+88,beachball,5,ball / board,125,32
+1497,torpedo,5,ball / board,125,33
+9,airplane,5,ball / board,125,34
+73,baseball,5,ball / board,125,35
+1175,rollerblade,5,ball / board,125,36
+563,frisbee,5,ball / board,125,37
+1571,videogame,5,ball / board,125,38
+1628,wing,5,ball / board,125,39
+1041,pinball,5,ball / board,125,40
+1510,trailer,5,ball / board,125,41
+746,jet,5,ball / board,125,42
+279,chessboard,5,ball / board,125,43
+1644,yacht,5,ball / board,125,44
+1136,ramp,5,ball / board,125,45
+1162,rim,5,ball / board,125,46
+585,gear,5,ball / board,125,47
+1411,surfboard,5,ball / board,125,48
+324,coaster,5,ball / board,125,49
+742,javelin,5,ball / board,125,50
+1373,steamroller,5,ball / board,125,51
+891,missile,5,ball / board,125,52
+231,cannonball,5,ball / board,125,53
+1527,trolley,5,ball / board,125,54
+552,football,5,ball / board,125,55
+252,catapult,5,ball / board,125,56
+712,hovercraft,5,ball / board,125,57
+1640,wreck,5,ball / board,125,58
+410,dart,5,ball / board,125,59
+1599,waterwheel,5,ball / board,125,60
+635,gumball,5,ball / board,125,61
+1183,roulette wheel,5,ball / board,125,62
+1005,pedal,5,ball / board,125,63
+1534,trunk,5,ball / board,125,64
+1351,springboard,5,ball / board,125,65
+379,crank,5,ball / board,125,66
+540,float,5,ball / board,125,67
+1172,roll,5,ball / board,125,68
+1611,wheelbarrow,5,ball / board,125,69
+1511,train,5,ball / board,125,70
+1361,stair,5,ball / board,125,71
+358,cork,5,ball / board,125,72
+1313,snowboard,5,ball / board,125,73
+430,diving board,5,ball / board,125,74
+199,bus,5,ball / board,125,75
+505,ferris wheel,5,ball / board,125,76
+193,bumper,5,ball / board,125,77
+1461,tennis ball,5,ball / board,125,78
+230,cannon,5,ball / board,125,79
+142,bomb,5,ball / board,125,80
+575,garbage truck,5,ball / board,125,81
+76,basketball hoop,5,ball / board,125,82
+138,bobsled,5,ball / board,125,83
+877,meatball,5,ball / board,125,84
+1299,sling,5,ball / board,125,85
+1258,ship,5,ball / board,125,86
+1350,spring roll,5,ball / board,125,87
+170,brake,5,ball / board,125,88
+1319,soccer ball,5,ball / board,125,89
+476,egg roll,5,ball / board,125,90
+278,chess piece,5,ball / board,125,91
+1223,scoreboard,5,ball / board,125,92
+1332,space shuttle,5,ball / board,125,93
+1279,sidecar,5,ball / board,125,94
+386,cross,5,ball / board,125,95
+1450,taxi,5,ball / board,125,96
+547,flyswatter,5,ball / board,125,97
+360,corkscrew,5,ball / board,125,98
+714,hula hoop,5,ball / board,125,99
+751,joystick,5,ball / board,125,100
+468,dynamite,5,ball / board,125,101
+1160,rickshaw,5,ball / board,125,102
+1512,train car,5,ball / board,125,103
+1616,whiteboard,5,ball / board,125,104
+821,limousine,5,ball / board,125,105
+1310,snorkel,5,ball / board,125,106
+424,dirt bike,5,ball / board,125,107
+1075,police car,5,ball / board,125,108
+1523,tricycle,5,ball / board,125,109
+586,gearshift,5,ball / board,125,110
+1285,siren,5,ball / board,125,111
+157,bowl,5,ball / board,125,112
+1232,scuba,5,ball / board,125,113
+1276,shuffleboard,5,ball / board,125,114
+401,curb,5,ball / board,125,115
+1219,school bus,5,ball / board,125,116
+589,generator,5,ball / board,125,117
+1542,turbine,5,ball / board,125,118
+747,jetski,5,ball / board,125,119
+1513,train set,5,ball / board,125,120
+546,flypaper,5,ball / board,125,121
+1362,stake,5,ball / board,125,122
+191,bulletin board,5,ball / board,125,123
+1374,steering wheel,5,ball / board,125,124
+678,heater,17,cigarette / cooler,58,0
+130,blower,17,cigarette / cooler,58,1
+515,fire,17,cigarette / cooler,58,2
+197,burner,17,cigarette / cooler,58,3
+532,flamethrower,17,cigarette / cooler,58,4
+302,cigarette,17,cigarette / cooler,58,5
+520,fireplace,17,cigarette / cooler,58,6
+570,furnace,17,cigarette / cooler,58,7
+132,blowgun,17,cigarette / cooler,58,8
+288,chimney,17,cigarette / cooler,58,9
+1126,radiator,17,cigarette / cooler,58,10
+1305,smoke alarm,17,cigarette / cooler,58,11
+645,hairdryer,17,cigarette / cooler,58,12
+301,cigar,17,cigarette / cooler,58,13
+122,blazer,17,cigarette / cooler,58,14
+1391,stove2,17,cigarette / cooler,58,15
+350,cooker,17,cigarette / cooler,58,16
+519,firecracker,17,cigarette / cooler,58,17
+518,fire pit,17,cigarette / cooler,58,18
+460,duct,17,cigarette / cooler,58,19
+1567,vent,17,cigarette / cooler,58,20
+516,fire alarm,17,cigarette / cooler,58,21
+490,extinguisher,17,cigarette / cooler,58,22
+1108,pump,17,cigarette / cooler,58,23
+1559,vacuum,17,cigarette / cooler,58,24
+579,gasket,17,cigarette / cooler,58,25
+39,ashtray,17,cigarette / cooler,58,26
+457,dryer,17,cigarette / cooler,58,27
+303,cigarette butt,17,cigarette / cooler,58,28
+418,detonator,17,cigarette / cooler,58,29
+6,air pump,17,cigarette / cooler,58,30
+1390,stove1,17,cigarette / cooler,58,31
+1560,valve,17,cigarette / cooler,58,32
+4,air conditioner,17,cigarette / cooler,58,33
+727,incense,17,cigarette / cooler,58,34
+304,cigarette holder,17,cigarette / cooler,58,35
+1050,pipe2,17,cigarette / cooler,58,36
+353,cooler,17,cigarette / cooler,58,37
+489,exhaust pipe,17,cigarette / cooler,58,38
+1352,sprinkler,17,cigarette / cooler,58,39
+1465,thermometer,17,cigarette / cooler,58,40
+497,fan,17,cigarette / cooler,58,41
+1049,pipe1,17,cigarette / cooler,58,42
+1593,water cooler,17,cigarette / cooler,58,43
+1607,weed,17,cigarette / cooler,58,44
+53,bagpipe,17,cigarette / cooler,58,45
+521,firetruck,17,cigarette / cooler,58,46
+1596,water heater,17,cigarette / cooler,58,47
+699,hookah,17,cigarette / cooler,58,48
+571,fuse,17,cigarette / cooler,58,49
+523,fireworks,17,cigarette / cooler,58,50
+1467,thermostat,17,cigarette / cooler,58,51
+175,breathalyzer,17,cigarette / cooler,58,52
+1626,wine cooler,17,cigarette / cooler,58,53
+1535,tuba,17,cigarette / cooler,58,54
+1466,thermos,17,cigarette / cooler,58,55
+946,nutcracker,17,cigarette / cooler,58,56
+1464,test tube,17,cigarette / cooler,58,57
+151,bottle,9,bottle / coffee,56,0
+1592,water bottle,9,bottle / coffee,56,1
+1487,toilet,9,bottle / coffee,56,2
+918,mug,9,bottle / coffee,56,3
+1088,pot,9,bottle / coffee,56,4
+400,cup,9,bottle / coffee,56,5
+1453,teacup,9,bottle / coffee,56,6
+332,coffee pot,9,bottle / coffee,56,7
+330,coffee,9,bottle / coffee,56,8
+1451,tea,9,bottle / coffee,56,9
+328,cocktail,9,bottle / coffee,56,10
+708,hot-water bottle,9,bottle / coffee,56,11
+517,fire hydrant,9,bottle / coffee,56,12
+1321,soda,9,bottle / coffee,56,13
+1284,sink,9,bottle / coffee,56,14
+1557,urinal,9,bottle / coffee,56,15
+499,faucet,9,bottle / coffee,56,16
+349,container,9,bottle / coffee,56,17
+101,beer,9,bottle / coffee,56,18
+455,drink,9,bottle / coffee,56,19
+1454,teapot,9,bottle / coffee,56,20
+704,hose,9,bottle / coffee,56,21
+1625,wine bottle,9,bottle / coffee,56,22
+268,champagne,9,bottle / coffee,56,23
+1271,shower cap,9,bottle / coffee,56,24
+717,hydrant,9,bottle / coffee,56,25
+814,lid,9,bottle / coffee,56,26
+1270,shower,9,bottle / coffee,56,27
+1349,spout,9,bottle / coffee,56,28
+450,drain,9,bottle / coffee,56,29
+1093,potpourri,9,bottle / coffee,56,30
+80,bathmat,9,bottle / coffee,56,31
+1322,soda fountain,9,bottle / coffee,56,32
+706,hot tub,9,bottle / coffee,56,33
+1388,stool,9,bottle / coffee,56,34
+1242,sewage,9,bottle / coffee,56,35
+752,jug,9,bottle / coffee,56,36
+82,bathtub,9,bottle / coffee,56,37
+1595,water fountain,9,bottle / coffee,56,38
+229,canister,9,bottle / coffee,56,39
+1273,showerhead,9,bottle / coffee,56,40
+333,coffee table,9,bottle / coffee,56,41
+81,bathrobe,9,bottle / coffee,56,42
+404,curtain,9,bottle / coffee,56,43
+568,funnel,9,bottle / coffee,56,44
+1090,potholder,9,bottle / coffee,56,45
+1569,vial,9,bottle / coffee,56,46
+388,crouton,9,bottle / coffee,56,47
+536,flask,9,bottle / coffee,56,48
+862,margarita,9,bottle / coffee,56,49
+1092,potpie,9,bottle / coffee,56,50
+1272,shower curtain,9,bottle / coffee,56,51
+1376,step stool,9,bottle / coffee,56,52
+1149,red carpet,9,bottle / coffee,56,53
+533,flan,9,bottle / coffee,56,54
+874,measuring cup,9,bottle / coffee,56,55
+471,earring,24,phone / booth,47,0
+469,ear,24,phone / booth,47,1
+633,guitar,24,phone / booth,47,2
+611,gramophone,24,phone / booth,47,3
+1339,speaker,24,phone / booth,47,4
+1533,trumpet,24,phone / booth,47,5
+258,cellphone,24,phone / booth,47,6
+884,microphone,24,phone / booth,47,7
+1211,saxophone,24,phone / booth,47,8
+1643,xylophone,24,phone / booth,47,9
+675,headset,24,phone / booth,47,10
+1028,phone,24,phone / booth,47,11
+544,flute,24,phone / booth,47,12
+1127,radio,24,phone / booth,47,13
+1528,trombone,24,phone / booth,47,14
+673,headphones,24,phone / booth,47,15
+880,megaphone,24,phone / booth,47,16
+1377,stereo,24,phone / booth,47,17
+660,harmonica,24,phone / booth,47,18
+257,cello,24,phone / booth,47,19
+669,headband,24,phone / booth,47,20
+251,cassette,24,phone / booth,47,21
+701,horn,24,phone / booth,47,22
+470,earplug,24,phone / booth,47,23
+308,clarinet,24,phone / booth,47,24
+1573,violin,24,phone / booth,47,25
+676,hearing aid,24,phone / booth,47,26
+63,banjo,24,phone / booth,47,27
+677,hearse,24,phone / booth,47,28
+443,doorbell,24,phone / booth,47,29
+662,harp,24,phone / booth,47,30
+939,noisemaker,24,phone / booth,47,31
+19,amplifier,24,phone / booth,47,32
+1440,tambourine,24,phone / booth,47,33
+997,payphone,24,phone / booth,47,34
+25,antenna,24,phone / booth,47,35
+854,mandolin,24,phone / booth,47,36
+1029,phone booth,24,phone / booth,47,37
+456,drumstick,24,phone / booth,47,38
+104,bell,24,phone / booth,47,39
+1615,whistle,24,phone / booth,47,40
+419,dial,24,phone / booth,47,41
+607,gong,24,phone / booth,47,42
+1125,radar,24,phone / booth,47,43
+407,cymbal,24,phone / booth,47,44
+1458,telegraph,24,phone / booth,47,45
+1030,photo booth,24,phone / booth,47,46
+983,paper,47,paper / tape,42,0
+1601,wax paper,47,paper / tape,42,1
+730,ink,47,paper / tape,42,2
+1011,pencil,47,paper / tape,42,3
+969,paint,47,paper / tape,42,4
+1488,toilet paper,47,paper / tape,42,5
+234,canvas,47,paper / tape,42,6
+1443,tape,47,paper / tape,42,7
+266,chalk,47,paper / tape,42,8
+267,chalkboard,47,paper / tape,42,9
+382,crayon,47,paper / tape,42,10
+461,duct tape,47,paper / tape,42,11
+185,bubble wrap,47,paper / tape,42,12
+971,painting,47,paper / tape,42,13
+1638,wrapping paper,47,paper / tape,42,14
+1097,printer,47,paper / tape,42,15
+657,handprint,47,paper / tape,42,16
+863,marker,47,paper / tape,42,17
+987,paperclip,47,paper / tape,42,18
+1252,sheet,47,paper / tape,42,19
+184,bubble,47,paper / tape,42,20
+1600,wax,47,paper / tape,42,21
+1637,wrap,47,paper / tape,42,22
+870,mat,47,paper / tape,42,23
+355,copier,47,paper / tape,42,24
+1012,pencil sharpener,47,paper / tape,42,25
+16,aluminum foil,47,paper / tape,42,26
+56,balloon,47,paper / tape,42,27
+970,paintbrush,47,paper / tape,42,28
+1059,plastic film,47,paper / tape,42,29
+957,origami,47,paper / tape,42,30
+511,film,47,paper / tape,42,31
+1248,shawl,47,paper / tape,42,32
+514,fingerprint,47,paper / tape,42,33
+1216,scanner,47,paper / tape,42,34
+1448,tarp,47,paper / tape,42,35
+731,inkwell,47,paper / tape,42,36
+1444,tape measure,47,paper / tape,42,37
+771,kite,47,paper / tape,42,38
+859,map,47,paper / tape,42,39
+1056,place mat,47,paper / tape,42,40
+707,hot-air balloon,47,paper / tape,42,41
+873,mattress,11,chair / mattress,40,0
+264,chair,11,chair / mattress,40,1
+371,couch,11,chair / mattress,40,2
+405,cushion,11,chair / mattress,40,3
+239,car seat,11,chair / mattress,40,4
+1039,pillow,11,chair / mattress,40,5
+1323,sofa bed,11,chair / mattress,40,6
+1146,recliner,11,chair / mattress,40,7
+96,bed,11,chair / mattress,40,8
+548,foam,11,chair / mattress,40,9
+369,cot,11,chair / mattress,40,10
+421,diaper,11,chair / mattress,40,11
+195,bunkbed,11,chair / mattress,40,12
+1190,saddle,11,chair / mattress,40,13
+97,bedpan,11,chair / mattress,40,14
+1617,whoopee cushion,11,chair / mattress,40,15
+1462,tent,11,chair / mattress,40,16
+674,headrest,11,chair / mattress,40,17
+31,apron,11,chair / mattress,40,18
+98,bedpost,11,chair / mattress,40,19
+5,air mattress,11,chair / mattress,40,20
+1387,stomach,11,chair / mattress,40,21
+1400,stroller,11,chair / mattress,40,22
+556,footrest,11,chair / mattress,40,23
+932,navel,11,chair / mattress,40,24
+1170,rocking chair,11,chair / mattress,40,25
+1401,stuffing,11,chair / mattress,40,26
+77,bassinet,11,chair / mattress,40,27
+482,electric chair,11,chair / mattress,40,28
+220,camper,11,chair / mattress,40,29
+959,ottoman,11,chair / mattress,40,30
+1238,seatbelt,11,chair / mattress,40,31
+1413,suspenders,11,chair / mattress,40,32
+1402,stump,11,chair / mattress,40,33
+658,hanger,11,chair / mattress,40,34
+728,incubator,11,chair / mattress,40,35
+936,nest,11,chair / mattress,40,36
+639,gutter,11,chair / mattress,40,37
+816,lifesaver,11,chair / mattress,40,38
+354,coop,11,chair / mattress,40,39
+808,lens,6,lens / glass,40,0
+495,eyepiece,6,lens / glass,40,1
+596,glasses,6,lens / glass,40,2
+595,glass,6,lens / glass,40,3
+1031,photograph,6,lens / glass,40,4
+491,eye,6,lens / glass,40,5
+1409,sunglasses,6,lens / glass,40,6
+1277,shutter,6,lens / glass,40,7
+113,binoculars,6,lens / glass,40,8
+711,hourglass,6,lens / glass,40,9
+1460,telescope,6,lens / glass,40,10
+217,camera lens,6,lens / glass,40,11
+1526,tripod,6,lens / glass,40,12
+890,mirror,6,lens / glass,40,13
+1098,prism,6,lens / glass,40,14
+219,camera2,6,lens / glass,40,15
+561,frame,6,lens / glass,40,16
+1627,wineglass,6,lens / glass,40,17
+218,camera1,6,lens / glass,40,18
+1099,projector,6,lens / glass,40,19
+215,camcorder,6,lens / glass,40,20
+848,magnifying glass,6,lens / glass,40,21
+1604,webcam,6,lens / glass,40,22
+603,goggles,6,lens / glass,40,23
+885,microscope,6,lens / glass,40,24
+493,eyedropper,6,lens / glass,40,25
+1145,rearview mirror,6,lens / glass,40,26
+348,contact lens,6,lens / glass,40,27
+492,eye patch,6,lens / glass,40,28
+1572,viewfinder,6,lens / glass,40,29
+1360,stained glass,6,lens / glass,40,30
+123,blender,6,lens / glass,40,31
+10,album,6,lens / glass,40,32
+45,backdrop,6,lens / glass,40,33
+972,palette,6,lens / glass,40,34
+1147,record,6,lens / glass,40,35
+1118,quilt,6,lens / glass,40,36
+1570,videocassette,6,lens / glass,40,37
+1445,tapestry,6,lens / glass,40,38
+1148,record player,6,lens / glass,40,39
+842,macaroni,48,macaroni,40,0
+198,burrito,48,macaroni,40,1
+925,nacho,48,macaroni,40,2
+739,jalapeno,48,macaroni,40,3
+1326,sombrero,48,macaroni,40,4
+1115,quesadilla,48,macaroni,40,5
+41,avocado,48,macaroni,40,6
+1500,tortilla,48,macaroni,40,7
+1501,tostada,48,macaroni,40,8
+629,guacamole,48,macaroni,40,9
+1435,taco,48,macaroni,40,10
+791,lasagna,48,macaroni,40,11
+1412,sushi,48,macaroni,40,12
+828,llama,48,macaroni,40,13
+484,enchilada,48,macaroni,40,14
+233,cantaloupe,48,macaroni,40,15
+54,baklava,48,macaroni,40,16
+223,candelabra,48,macaroni,40,17
+1195,salami,48,macaroni,40,18
+1503,toucan,48,macaroni,40,19
+1439,tamale,48,macaroni,40,20
+38,arugula,48,macaroni,40,21
+1192,saffron,48,macaroni,40,22
+1541,turban,48,macaroni,40,23
+841,macadamia,48,macaroni,40,24
+1486,toga,48,macaroni,40,25
+780,koala,48,macaroni,40,26
+1329,souffle,48,macaroni,40,27
+1480,tiramisu,48,macaroni,40,28
+1554,undershirt,48,macaroni,40,29
+769,kilt,48,macaroni,40,30
+1141,ravioli,48,macaroni,40,31
+30,applesauce,48,macaroni,40,32
+1548,tuxedo,48,macaroni,40,33
+773,kiwi,48,macaroni,40,34
+1537,tulip,48,macaroni,40,35
+1403,subway,48,macaroni,40,36
+1208,sauerkraut,48,macaroni,40,37
+28,apple,48,macaroni,40,38
+1328,sorbet,48,macaroni,40,39
+1040,pin,20,card / pin,36,0
+1301,slot,20,card / pin,36,1
+1583,wallet,20,card / pin,36,2
+1302,slot machine,20,card / pin,36,3
+1010,pen,20,card / pin,36,4
+241,card,20,card / pin,36,5
+64,bank,20,card / pin,36,6
+690,hole,20,card / pin,36,7
+830,lock,20,card / pin,36,8
+1015,penholder,20,card / pin,36,9
+336,coin,20,card / pin,36,10
+385,credit card,20,card / pin,36,11
+248,cash machine,20,card / pin,36,12
+768,keyhole,20,card / pin,36,13
+1177,rolling pin,20,card / pin,36,14
+968,padlock,20,card / pin,36,15
+1071,poker,20,card / pin,36,16
+1086,porthole,20,card / pin,36,17
+559,fountain pen,20,card / pin,36,18
+1303,sloth,20,card / pin,36,19
+1062,playing card,20,card / pin,36,20
+766,key,20,card / pin,36,21
+856,manhole,20,card / pin,36,22
+1036,piggy bank,20,card / pin,36,23
+298,christmas card,20,card / pin,36,24
+1042,pincushion,20,card / pin,36,25
+1063,playpen,20,card / pin,36,26
+1091,pothole,20,card / pin,36,27
+1392,straightjacket,20,card / pin,36,28
+273,checkbook,20,card / pin,36,29
+1283,sim card,20,card / pin,36,30
+1191,safety pin,20,card / pin,36,31
+249,cash register,20,card / pin,36,32
+341,combination lock,20,card / pin,36,33
+274,checkers,20,card / pin,36,34
+109,bib,20,card / pin,36,35
+466,duster,28,grinder,33,0
+626,grinder,28,grinder,33,1
+1245,shaker,28,grinder,33,2
+1418,sweeper,28,grinder,33,3
+1297,slicer,28,grinder,33,4
+376,cracker,28,grinder,33,5
+1274,shredder,28,grinder,33,6
+1227,scraper,28,grinder,33,7
+876,meat grinder,28,grinder,33,8
+1007,peeler,28,grinder,33,9
+1393,strainer,28,grinder,33,10
+487,eraser,28,grinder,33,11
+1067,plunger,28,grinder,33,12
+465,dumpster,28,grinder,33,13
+1222,scoop,28,grinder,33,14
+1269,shovel,28,grinder,33,15
+180,broom,28,grinder,33,16
+90,beaker,28,grinder,33,17
+1517,trashcan,28,grinder,33,18
+1280,sifter,28,grinder,33,19
+255,caviar,28,grinder,33,20
+467,dustpan,28,grinder,33,21
+186,bucket,28,grinder,33,22
+464,dumpling,28,grinder,33,23
+1196,saltshaker,28,grinder,33,24
+1129,rag,28,grinder,33,25
+729,inhaler,28,grinder,33,26
+700,hopscotch,28,grinder,33,27
+475,eclair,28,grinder,33,28
+1623,windshield wiper,28,grinder,33,29
+663,hash,28,grinder,33,30
+488,exerciser,28,grinder,33,31
+574,garbage,28,grinder,33,32
+1629,wire,53,wire / gauge,30,0
+818,lightbulb,53,wire / gauge,30,1
+535,flashlight,53,wire / gauge,30,2
+1065,plug,53,wire / gauge,30,3
+785,lamp,53,wire / gauge,30,4
+1016,penlight,53,wire / gauge,30,5
+357,cord,53,wire / gauge,30,6
+1496,torch,53,wire / gauge,30,7
+672,headlight,53,wire / gauge,30,8
+671,headlamp,53,wire / gauge,30,9
+817,light switch,53,wire / gauge,30,10
+86,battery,53,wire / gauge,30,11
+1397,streetlight,53,wire / gauge,30,12
+819,lighter,53,wire / gauge,30,13
+961,outlet,53,wire / gauge,30,14
+1338,sparkler,53,wire / gauge,30,15
+206,cable,53,wire / gauge,30,16
+335,coil,53,wire / gauge,30,17
+1337,spark plug,53,wire / gauge,30,18
+788,lantern,53,wire / gauge,30,19
+224,candle,53,wire / gauge,30,20
+271,charger,53,wire / gauge,30,21
+786,lamppost,53,wire / gauge,30,22
+1424,switch,53,wire / gauge,30,23
+282,chicken wire,53,wire / gauge,30,24
+66,barbed wire,53,wire / gauge,30,25
+581,gauge,53,wire / gauge,30,26
+534,flashbulb,53,wire / gauge,30,27
+1095,power line,53,wire / gauge,30,28
+1131,rain gauge,53,wire / gauge,30,29
+51,bag,27,bag / basket,28,0
+47,backpack,27,bag / basket,28,1
+177,briefcase,27,bag / basket,28,2
+984,paper bag,27,bag / basket,28,3
+838,luggage,27,bag / basket,28,4
+1405,suitcase,27,bag / basket,28,5
+1253,shelf,27,bag / basket,28,6
+92,beanbag,27,bag / basket,28,7
+148,bookshelf,27,bag / basket,28,8
+1111,punching bag,27,bag / basket,28,9
+831,locker,27,bag / basket,28,10
+7,airbag,27,bag / basket,28,11
+205,cabinet,27,bag / basket,28,12
+1198,sandbag,27,bag / basket,28,13
+52,bagel,27,bag / basket,28,14
+316,closet,27,bag / basket,28,15
+1452,teabag,27,bag / basket,28,16
+146,book,27,bag / basket,28,17
+1264,shopping basket,27,bag / basket,28,18
+75,basket,27,bag / basket,28,19
+451,drawer,27,bag / basket,28,20
+453,dresser,27,bag / basket,28,21
+1151,refrigerator,27,bag / basket,28,22
+1265,shopping cart,27,bag / basket,28,23
+112,binder,27,bag / basket,28,24
+342,comic book,27,bag / basket,28,25
+147,bookmark,27,bag / basket,28,26
+510,filing cabinet,27,bag / basket,28,27
+79,bat2,33,bat2,27,0
+1442,tank2,33,bat2,27,1
+78,bat1,33,bat2,27,2
+1255,shell2,33,bat2,27,3
+1441,tank1,33,bat2,27,4
+1254,shell1,33,bat2,27,5
+1365,stamp2,33,bat2,27,6
+509,file2,33,bat2,27,7
+1581,walker2,33,bat2,27,8
+202,button1,33,bat2,27,9
+697,hook1,33,bat2,27,10
+213,calf2,33,bat2,27,11
+1110,punch1,33,bat2,27,12
+1364,stamp1,33,bat2,27,13
+203,button2,33,bat2,27,14
+698,hook2,33,bat2,27,15
+280,chest1,33,bat2,27,16
+212,calf1,33,bat2,27,17
+1580,walker1,33,bat2,27,18
+1395,straw1,33,bat2,27,19
+83,baton1,33,bat2,27,20
+1396,straw2,33,bat2,27,21
+84,baton2,33,bat2,27,22
+1256,shell3,33,bat2,27,23
+508,file1,33,bat2,27,24
+85,baton3,33,bat2,27,25
+111,bin,33,bat2,27,26
+345,computer,19,computer,27,0
+767,keyboard,19,computer,27,1
+1432,tablet,19,computer,27,2
+911,mousepad,19,computer,27,3
+790,laptop,19,computer,27,4
+943,notebook,19,computer,27,5
+910,mouse2,19,computer,27,6
+909,mouse1,19,computer,27,7
+417,desk,19,computer,27,8
+944,notepad,19,computer,27,9
+346,computer screen,19,computer,27,10
+1621,window,19,computer,27,11
+882,memory stick,19,computer,27,12
+1228,screen1,19,computer,27,13
+1504,touchpad,19,computer,27,14
+912,mousetrap,19,computer,27,15
+1229,screen2,19,computer,27,16
+1430,tab,19,computer,27,17
+1518,tray,19,computer,27,18
+1622,windowsill,19,computer,27,19
+1135,ram,19,computer,27,20
+429,diskette,19,computer,27,21
+1032,piano,19,computer,27,22
+659,hard disk,19,computer,27,23
+907,motherboard,19,computer,27,24
+1551,typewriter,19,computer,27,25
+792,laser pointer,19,computer,27,26
+1646,yarn,2,iron / needle,19,0
+1589,washing machine,2,iron / needle,19,1
+733,iron,2,iron / needle,19,2
+1244,sewing machine,2,iron / needle,19,3
+777,knitting needle,2,iron / needle,19,4
+776,knitting,2,iron / needle,19,5
+734,ironing board,2,iron / needle,19,6
+935,needle,2,iron / needle,19,7
+1243,sewing kit,2,iron / needle,19,8
+427,dishwasher,2,iron / needle,19,9
+1587,washboard,2,iron / needle,19,10
+1325,soldering iron,2,iron / needle,19,11
+1282,silverware,2,iron / needle,19,12
+402,curling iron,2,iron / needle,19,13
+1043,pine needle,2,iron / needle,19,14
+1428,syringe,2,iron / needle,19,15
+1189,rust,2,iron / needle,19,16
+428,dishwashing liquid,2,iron / needle,19,17
+290,chinaware,2,iron / needle,19,18
+927,nail clippers,54,nail / polish,18,0
+1368,stapler,54,nail / polish,18,1
+926,nail,54,nail / polish,18,2
+1366,staple,54,nail / polish,18,3
+929,nail polish,54,nail / polish,18,4
+1367,staple gun,54,nail / polish,18,5
+1220,scissors,54,nail / polish,18,6
+313,clipper2,54,nail / polish,18,7
+311,clipboard,54,nail / polish,18,8
+1249,shears,54,nail / polish,18,9
+1261,shoe polish,54,nail / polish,18,10
+928,nail file,54,nail / polish,18,11
+312,clipper1,54,nail / polish,18,12
+1076,polisher,54,nail / polish,18,13
+406,cutting board,54,nail / polish,18,14
+1630,wire cutters,54,nail / polish,18,15
+1101,prune,54,nail / polish,18,16
+683,highlighter,54,nail / polish,18,17
+868,mask,12,mask,16,0
+1564,veil,12,mask,16,1
+128,block,12,mask,16,2
+1257,shield,12,mask,16,3
+314,cloak,12,mask,16,4
+871,match,12,mask,16,5
+1236,seal,12,mask,16,6
+329,cocoon,12,mask,16,7
+578,gas mask,12,mask,16,8
+995,patch,12,mask,16,9
+168,bracket,12,mask,16,10
+1438,tag,12,mask,16,11
+966,pacifier,12,mask,16,12
+872,matchbox,12,mask,16,13
+1034,piecrust,12,mask,16,14
+1470,thread,12,mask,16,15
+719,ice,57,ski / ice,16,0
+1311,snow,57,ski / ice,16,1
+724,iceskate,57,ski / ice,16,2
+1312,snowball,57,ski / ice,16,3
+1288,ski,57,ski / ice,16,4
+1315,snowmobile,57,ski / ice,16,5
+1316,snowplow,57,ski / ice,16,6
+723,icepick,57,ski / ice,16,7
+1314,snowman,57,ski / ice,16,8
+722,icemaker,57,ski / ice,16,9
+1291,ski pole,57,ski / ice,16,10
+720,ice cream,57,ski / ice,16,11
+1289,ski boots,57,ski / ice,16,12
+721,ice-cream cone,57,ski / ice,16,13
+1290,ski lift,57,ski / ice,16,14
+725,icicle,57,ski / ice,16,15
+161,box,3,box,15,0
+850,mailbox,3,box,15,1
+849,mail,3,box,15,2
+486,envelope,3,box,15,3
+242,cardboard,3,box,15,4
+57,ballot box,3,box,15,5
+1087,poster,3,box,15,6
+1335,spam,3,box,15,7
+344,compost,3,box,15,8
+422,dice,3,box,15,9
+1491,toolbox,3,box,15,10
+836,loom,3,box,15,11
+380,crate,3,box,15,12
+600,goalpost,3,box,15,13
+373,counter,3,box,15,14
+44,baby,16,baby,14,0
+164,boy,16,baby,14,1
+594,girl,16,baby,14,2
+134,boa,16,baby,14,3
+1649,yoke,16,baby,14,4
+165,bra,16,baby,14,5
+1645,yak,16,baby,14,6
+853,man,16,baby,14,7
+1647,yo-yo,16,baby,14,8
+689,hoe,16,baby,14,9
+869,mast,16,baby,14,10
+196,buoy,16,baby,14,11
+1052,pita,16,baby,14,12
+423,dip,16,baby,14,13
+425,dish,22,plate / dish,14,0
+1060,plate,22,plate / dish,14,1
+985,paper plate,22,plate / dish,14,2
+692,home plate,22,plate / dish,14,3
+1205,satellite dish,22,plate / dish,14,4
+812,license plate,22,plate / dish,14,5
+1027,petri dish,22,plate / dish,14,6
+439,domino,22,plate / dish,14,7
+1477,tile,22,plate / dish,14,8
+426,dishrag,22,plate / dish,14,9
+710,hotplate,22,plate / dish,14,10
+1204,satellite,22,plate / dish,14,11
+1544,turnstile,22,plate / dish,14,12
+245,carousel,22,plate / dish,14,13
+125,blind,56,blind,13,0
+1182,rose,56,blind,13,1
+1606,wedge,56,blind,13,2
+126,blinder,56,blind,13,3
+1164,riser,56,blind,13,4
+736,jack,56,blind,13,5
+537,flatiron,56,blind,13,6
+434,doily,56,blind,13,7
+1468,thimble,56,blind,13,8
+1558,urn,56,blind,13,9
+127,blindfold,56,blind,13,10
+1375,stem,56,blind,13,11
+221,can,56,blind,13,12
+442,door,34,door / opener,13,0
+444,doorhandle,34,door / opener,13,1
+238,car door,34,door / opener,13,2
+448,doorstop,34,door / opener,13,3
+445,doorknob,34,door / opener,13,4
+447,doormat,34,door / opener,13,5
+1156,revolving door,34,door / opener,13,6
+446,doorknocker,34,door / opener,13,7
+811,letter opener,34,door / opener,13,8
+684,hinge,34,door / opener,13,9
+222,can opener,34,door / opener,13,10
+655,handle,34,door / opener,13,11
+656,handlebar,34,door / opener,13,12
+715,hummus,0,hummus,13,0
+686,hippopotamus,0,hummus,13,1
+1061,platypus,0,hummus,13,2
+685,hip,0,hummus,13,3
+14,alpaca,0,hummus,13,4
+1385,stirrup,0,hummus,13,5
+1009,pelican,0,hummus,13,6
+1,abacus,0,hummus,13,7
+1004,pecan,0,hummus,13,8
+1203,sardine,0,hummus,13,9
+716,humvee,0,hummus,13,10
+1202,sarcophagus,0,hummus,13,11
+800,lectern,0,hummus,13,12
+1117,quill,18,quill,13,0
+1116,quiche,18,quill,13,1
+619,grater,18,quill,13,2
+618,grate,18,quill,13,3
+296,chive,18,quill,13,4
+295,chisel,18,quill,13,5
+622,gravy,18,quill,13,6
+347,confetti,18,quill,13,7
+265,chalice,18,quill,13,8
+989,parfait,18,quill,13,9
+1356,squeegee,18,quill,13,10
+261,centrifuge,18,quill,13,11
+1620,wind chimes,18,quill,13,12
+1033,pickle,14,pickle,12,0
+1278,sickle,14,pickle,12,1
+802,leek,14,pickle,12,2
+758,kale,14,pickle,12,3
+801,leech,14,pickle,12,4
+583,gavel,14,pickle,12,5
+1552,ukulele,14,pickle,12,6
+72,barrette,14,pickle,12,7
+893,mitten,14,pickle,12,8
+473,easel,14,pickle,12,9
+1336,spareribs,14,pickle,12,10
+837,loveseat,14,pickle,12,11
+1070,poinsettia,8,poinsettia,12,0
+1069,pogo stick,8,poinsettia,12,1
+1080,pomegranate,8,poinsettia,12,2
+1085,porcupine,8,poinsettia,12,3
+1079,pom-pom,8,poinsettia,12,4
+973,pallet,8,poinsettia,12,5
+144,bongo,8,poinsettia,12,6
+941,noose,8,poinsettia,12,7
+892,mistletoe,8,poinsettia,12,8
+948,oatmeal,8,poinsettia,12,9
+900,mongoose,8,poinsettia,12,10
+243,cardigan,8,poinsettia,12,11
+462,dumbbell,42,dumbbell,10,0
+1348,spool,42,dumbbell,10,1
+67,barbell,42,dumbbell,10,2
+378,crane,42,dumbbell,10,3
+1150,reel,42,dumbbell,10,4
+1106,pulley,42,dumbbell,10,5
+557,forklift,42,dumbbell,10,6
+638,gurney,42,dumbbell,10,7
+300,chute,42,dumbbell,10,8
+1539,tuning fork,42,dumbbell,10,9
+642,hail,38,hail,10,0
+149,boomerang,38,hail,10,1
+1553,umbrella,38,hail,10,2
+42,awning,38,hail,10,3
+65,banner,38,hail,10,4
+320,cloud,38,hail,10,5
+124,blimp,38,hail,10,6
+938,nightshirt,38,hail,10,7
+1166,roadsweeper,38,hail,10,8
+1639,wreath,38,hail,10,9
+1074,pole,50,pole,10,0
+531,flagpole,50,pole,10,1
+1502,totem pole,50,pole,10,2
+1459,telephone pole,50,pole,10,3
+1410,sunroof,50,pole,10,4
+528,fishing pole,50,pole,10,5
+1407,sundial,50,pole,10,6
+1406,sundae,50,pole,10,7
+1324,solar panel,50,pole,10,8
+530,flag,50,pole,10,9
+236,cape,30,cape,8,0
+584,gazelle,30,cape,8,1
+696,hood,30,cape,8,2
+745,jersey,30,cape,8,3
+597,globe,30,cape,8,4
+260,centerpiece,30,cape,8,5
+1624,windsock,30,cape,8,6
+810,leotard,30,cape,8,7
+1614,whisk,1,net,8,0
+1636,worm,1,net,8,1
+1618,wick,1,net,8,2
+937,net,1,net,8,3
+904,mosquito net,1,net,8,4
+1586,warthog,1,net,8,5
+0,aardvark,1,net,8,6
+1184,router,1,net,8,7
+61,bandage,29,bandage,7,0
+582,gauze,29,bandage,7,1
+18,ambulance,29,bandage,7,2
+524,first-aid kit,29,bandage,7,3
+1414,swab,29,bandage,7,4
+414,defibrillator,29,bandage,7,5
+631,guillotine,29,bandage,7,6
+1188,ruler,35,ruler,7,0
+211,calculator,35,ruler,7,1
+1214,scale,35,ruler,7,2
+1114,quad,35,ruler,7,3
+1522,triangle,35,ruler,7,4
+555,footprint,35,ruler,7,5
+214,calzone,35,ruler,7,6
+15,altar,15,altar,6,0
+1181,rosary,15,altar,6,1
+1585,wand,15,altar,6,2
+391,crucifix,15,altar,6,3
+1107,pulpit,15,altar,6,4
+1096,praying mantis,15,altar,6,5
+315,clock,43,clock / watch,6,0
+1478,timer,43,clock / watch,6,1
+1389,stopwatch,43,clock / watch,6,2
+1068,pocket watch,43,clock / watch,6,3
+396,cuckoo clock,43,clock / watch,6,4
+1591,watch,43,clock / watch,6,5
+602,goblet,25,goblet,6,0
+367,corset,25,goblet,6,1
+608,gourd,25,goblet,6,2
+599,go-kart,25,goblet,6,3
+372,cougar,25,goblet,6,4
+366,corsage,25,goblet,6,5
+1006,pedometer,26,pedometer,6,0
+950,odometer,26,pedometer,6,1
+990,parking meter,26,pedometer,6,2
+1342,speedometer,26,pedometer,6,3
+1509,traffic light,26,pedometer,6,4
+1165,road sign,26,pedometer,6,5
+759,kaleidoscope,58,kaleidoscope,5,0
+1023,periscope,58,kaleidoscope,5,1
+1240,seismograph,58,kaleidoscope,5,2
+1078,polygraph,58,kaleidoscope,5,3
+1327,sonogram,58,kaleidoscope,5,4
+770,kimono,41,kimono,5,0
+947,oar,41,kimono,5,1
+879,meerkat,41,kimono,5,2
+955,orangutan,41,kimono,5,3
+1561,van,41,kimono,5,4
+1422,swing,21,swing,5,0
+1423,swing set,21,swing,5,1
+606,golf club,21,swing,5,2
+1013,pendulum,21,swing,5,3
+46,backgammon,21,swing,5,4
+399,cummerbund,36,cummerbund,4,0
+1354,spur,36,cummerbund,4,1
+40,asparagus,36,cummerbund,4,2
+1530,trough,36,cummerbund,4,3
+1594,water filter,55,filter,4,0
+512,filter,55,filter,4,1
+331,coffee filter,55,filter,4,2
+1597,watering can,55,filter,4,3
+641,gyroscope,46,gyroscope,4,0
+640,gyro,46,gyroscope,4,1
+343,compass,46,gyroscope,4,2
+846,magnet,46,gyroscope,4,3
+1212,scaffold,32,scaffold,4,0
+1213,scaffolding,32,scaffold,4,1
+1225,scrabble,32,scaffold,4,2
+1221,scone,32,scaffold,4,3
+339,column,40,column,3,0
+1545,turntable,40,column,3,1
+1047,ping-pong table,40,column,3,2
+389,crowbar,51,crowbar,3,0
+1157,rhubarb,51,crowbar,3,1
+68,barcode,51,crowbar,3,2
+1479,tinsel,7,tinsel,3,0
+1635,workbench,7,tinsel,3,1
+963,overalls,7,tinsel,3,2
+2,accordion,39,accordion,2,0
+412,dashboard,39,accordion,2,1
+259,cement mixer,44,mixer,2,0
+894,mixer,44,mixer,2,1
+898,mole,45,mole,2,0
+1363,stalagmite,45,mole,2,1
+1083,pool table,49,pool,2,0
+1420,swimming pool,49,pool,2,1
+1058,plaster cast,37,plaster cast,1,0
+1153,remote control,52,remote control,1,0
+1603,weather vane,31,weather vane,1,0
