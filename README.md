@@ -60,8 +60,10 @@ To isolate the "Hardware Baseline," we implemented a physical ablation study:
 ├── 05_ml_results.ipynb         # Final modeling, Ablation, and Sanity Checks
 ├── data/                       # Preprocessed .npz tensors
 └── wavelet_outputs/            # Extracted DWT feature matrices
+```
+***
 
-## Environment Setup
+## ##Environment Setup
 
 To replicate this study, ensure you have Python 3.x and the following dependencies:
 
