@@ -46,7 +46,7 @@ def process_single_trial(trial):
         single_epoch_data = trial[i]  # (n_channels, n_times)
 
         raw = mne.io.RawArray(single_epoch_data, info, verbose=False)
-        raw.filter(0.05, 10, fir_design="firwin", verbose=False)
+        raw.filter(0.01, 100, fir_design="firwin", verbose=False)
         after_filter_data = raw.get_data()
 
         if after_filter_data.ndim == 2:
@@ -181,8 +181,9 @@ if __name__ == "__main__":
     times = data["times"]
     dt = np.mean(np.diff(times))
     fs = 1.0 / dt
-
-    freqs = np.arange(1, 41, 1)
+    
+    # freqs = np.arange(0.05, 60, 1)
+    freqs = np.arange(1, 101, 1)
     n_cycles = freqs / 2.0
 
     out_dir = "./sub-01_spectrogram_avg_batches"
