@@ -1,0 +1,49 @@
+\relax 
+\providecommand\hyper@newdestlabel[2]{}
+\providecommand\HyField@AuxAddToFields[1]{}
+\providecommand\HyField@AuxAddToCoFields[2]{}
+\@writefile{toc}{\contentsline {section}{\numberline {1}Introduction}{1}{section.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {2}Data and Preprocessing}{2}{section.2}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces Signal-quality inspection from the preprocessing pipeline. This diagnostic visualization verifies that the extracted visual-evoked EEG epochs contain structured ERP and spectral content before downstream feature extraction.}}{2}{figure.1}\protected@file@percent }
+\newlabel{fig:signal-quality}{{1}{2}{Signal-quality inspection from the preprocessing pipeline. This diagnostic visualization verifies that the extracted visual-evoked EEG epochs contain structured ERP and spectral content before downstream feature extraction}{figure.1}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {3}Feature Extraction}{2}{section.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.1}PSD Baseline}{2}{subsection.3.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.2}Discrete Wavelet Transform Features}{2}{subsection.3.2}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces Representative representational similarity matrix from the spectrogram/category analysis at channel Oz. The category-level analysis motivated the original image-category hypothesis, but later classification and ablation experiments showed that semantic category was not the primary driver of biometric separability.}}{3}{figure.2}\protected@file@percent }
+\newlabel{fig:oz-rsm}{{2}{3}{Representative representational similarity matrix from the spectrogram/category analysis at channel Oz. The category-level analysis motivated the original image-category hypothesis, but later classification and ablation experiments showed that semantic category was not the primary driver of biometric separability}{figure.2}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces Example time-frequency representation from the wavelet analysis. The scalogram illustrates why wavelet features are appropriate for this task: they retain transient local structure that PSD features discard.}}{3}{figure.3}\protected@file@percent }
+\newlabel{fig:cwt}{{3}{3}{Example time-frequency representation from the wavelet analysis. The scalogram illustrates why wavelet features are appropriate for this task: they retain transient local structure that PSD features discard}{figure.3}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {4}Classification Experiments}{4}{section.4}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.1}Full-Epoch Subject Identification}{4}{subsection.4.1}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {1}{\ignorespaces Full-epoch subject identification using DWT features.}}{4}{table.1}\protected@file@percent }
+\newlabel{tab:model-comparison}{{1}{4}{Full-epoch subject identification using DWT features}{table.1}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4}{\ignorespaces Baseline DWT Logistic Regression confusion matrix from the main machine-learning notebook. Most mass lies on the diagonal, supporting robust subject-level separability across all 10 participants.}}{4}{figure.4}\protected@file@percent }
+\newlabel{fig:dwt-confusion}{{4}{4}{Baseline DWT Logistic Regression confusion matrix from the main machine-learning notebook. Most mass lies on the diagonal, supporting robust subject-level separability across all 10 participants}{figure.4}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2}Ablation Experiments}{5}{subsection.4.2}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {2}{\ignorespaces Ablation results using Logistic Regression unless otherwise noted.}}{5}{table.2}\protected@file@percent }
+\newlabel{tab:ablation}{{2}{5}{Ablation results using Logistic Regression unless otherwise noted}{table.2}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {5}Model Interpretation}{5}{section.5}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {6}Final Fragmented-Signal SVM Analysis}{5}{section.6}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {5}{\ignorespaces Ablation comparison across baseline, ERP-enhanced averaging, semantic subsets, and pooled conditions. The animals and objects subsets remain close to baseline, while averaging and pooling improve performance, shifting the interpretation away from image semantics and toward stable subject-specific visual-evoked signal structure.}}{6}{figure.5}\protected@file@percent }
+\newlabel{fig:ablation}{{5}{6}{Ablation comparison across baseline, ERP-enhanced averaging, semantic subsets, and pooled conditions. The animals and objects subsets remain close to baseline, while averaging and pooling improve performance, shifting the interpretation away from image semantics and toward stable subject-specific visual-evoked signal structure}{figure.5}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {6}{\ignorespaces Global Logistic Regression coefficient importance aggregated by channel and wavelet band. The strongest weights concentrate in posterior visual electrodes and mid-scale Alpha/Beta-related wavelet bands, consistent with a visual-cortex time-frequency fingerprint.}}{6}{figure.6}\protected@file@percent }
+\newlabel{fig:feature-heatmap}{{6}{6}{Global Logistic Regression coefficient importance aggregated by channel and wavelet band. The strongest weights concentrate in posterior visual electrodes and mid-scale Alpha/Beta-related wavelet bands, consistent with a visual-cortex time-frequency fingerprint}{figure.6}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {3}{\ignorespaces Reverse subject identification from random EEG fragments. Chance level is $10\%$.}}{7}{table.3}\protected@file@percent }
+\newlabel{tab:fragment}{{3}{7}{Reverse subject identification from random EEG fragments. Chance level is $10\%$}{table.3}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {7}{\ignorespaces Reverse identification accuracy from randomly cropped EEG fragments. Accuracy increases with fragment duration and remains far above the $10\%$ chance level even at \SI {0.25}{s}.}}{7}{figure.7}\protected@file@percent }
+\newlabel{fig:fragment-curve}{{7}{7}{Reverse identification accuracy from randomly cropped EEG fragments. Accuracy increases with fragment duration and remains far above the $10\%$ chance level even at \SI {0.25}{s}}{figure.7}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {4}{\ignorespaces Permutation control for the best fragmented-signal setting.}}{7}{table.4}\protected@file@percent }
+\newlabel{tab:permutation}{{4}{7}{Permutation control for the best fragmented-signal setting}{table.4}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {8}{\ignorespaces Best fragmented-signal SVM confusion matrix. The fragment-level classifier retains a diagonal-dominant structure, showing that identity information is distributed across local windows rather than only present in full epochs.}}{8}{figure.8}\protected@file@percent }
+\newlabel{fig:fragment-confusion}{{8}{8}{Best fragmented-signal SVM confusion matrix. The fragment-level classifier retains a diagonal-dominant structure, showing that identity information is distributed across local windows rather than only present in full epochs}{figure.8}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {7}Confusion-Matrix and Signal-Level Analysis}{9}{section.7}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {9}{\ignorespaces Detailed count and row-normalized confusion matrices from the final analysis notebook. The error structure is concentrated in a small number of subject pairs rather than evenly spread across all classes.}}{9}{figure.9}\protected@file@percent }
+\newlabel{fig:confusion-detail}{{9}{9}{Detailed count and row-normalized confusion matrices from the final analysis notebook. The error structure is concentrated in a small number of subject pairs rather than evenly spread across all classes}{figure.9}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {5}{\ignorespaces Most important pairwise confusion outcomes from the final diagnostic analysis.}}{9}{table.5}\protected@file@percent }
+\newlabel{tab:confusion-summary}{{5}{9}{Most important pairwise confusion outcomes from the final diagnostic analysis}{table.5}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {8}Discussion}{9}{section.8}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {10}{\ignorespaces ERP waveform comparison for the most confused subject pair, sub-02 and sub-03, across posterior visual channels. This signal-level view complements the confusion-matrix diagnosis by connecting classification errors to subject-pair waveform structure.}}{10}{figure.10}\protected@file@percent }
+\newlabel{fig:erp-confused}{{10}{10}{ERP waveform comparison for the most confused subject pair, sub-02 and sub-03, across posterior visual channels. This signal-level view complements the confusion-matrix diagnosis by connecting classification errors to subject-pair waveform structure}{figure.10}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {9}Limitations}{11}{section.9}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {10}Conclusion}{11}{section.10}\protected@file@percent }
+\gdef \@abspage@last{11}
